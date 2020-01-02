@@ -128,7 +128,7 @@ public class MainActivity extends AppCompatActivity {
                     // TODO Auto-generated catch block
                     e.printStackTrace();
                 }
-                Toast.makeText(getApplicationContext(), "추가 되었습니다.", Toast.LENGTH_SHORT).show();
+                Toast.makeText(getApplicationContext(), "추가 되었습니다", Toast.LENGTH_SHORT).show();
                 break;
 
             case R.id.menu4: //다이얼로그 창을 이용한 앱을 종료 하는 기능 구현
