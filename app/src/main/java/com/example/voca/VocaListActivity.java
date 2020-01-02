@@ -14,7 +14,6 @@ import static com.example.voca.VocaAddActivity.*;
 
 public class VocaListActivity extends Activity {
 
-
     TextView tv;                    // load된 vocaArr의 값이 showVoca메서드를 통해 전달된다.
     Button btnAllRemove;            // 전체삭제 버튼
     Button btnDelete;               // index값을 입력받아 삭제하는 버튼
